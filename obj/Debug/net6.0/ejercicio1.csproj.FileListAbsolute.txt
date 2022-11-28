@@ -1,0 +1,15 @@
+C:\net\demosgit\proyecto2\bin\Debug\net6.0\ejercicio1.exe
+C:\net\demosgit\proyecto2\bin\Debug\net6.0\ejercicio1.deps.json
+C:\net\demosgit\proyecto2\bin\Debug\net6.0\ejercicio1.runtimeconfig.json
+C:\net\demosgit\proyecto2\bin\Debug\net6.0\ejercicio1.dll
+C:\net\demosgit\proyecto2\bin\Debug\net6.0\ejercicio1.pdb
+C:\net\demosgit\proyecto2\obj\Debug\net6.0\ejercicio1.csproj.AssemblyReference.cache
+C:\net\demosgit\proyecto2\obj\Debug\net6.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\net\demosgit\proyecto2\obj\Debug\net6.0\ejercicio1.AssemblyInfoInputs.cache
+C:\net\demosgit\proyecto2\obj\Debug\net6.0\ejercicio1.AssemblyInfo.cs
+C:\net\demosgit\proyecto2\obj\Debug\net6.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\net\demosgit\proyecto2\obj\Debug\net6.0\ejercicio1.dll
+C:\net\demosgit\proyecto2\obj\Debug\net6.0\refint\ejercicio1.dll
+C:\net\demosgit\proyecto2\obj\Debug\net6.0\ejercicio1.pdb
+C:\net\demosgit\proyecto2\obj\Debug\net6.0\ejercicio1.genruntimeconfig.cache
+C:\net\demosgit\proyecto2\obj\Debug\net6.0\ref\ejercicio1.dll
